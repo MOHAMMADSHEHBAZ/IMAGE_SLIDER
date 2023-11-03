@@ -1,2 +1,7 @@
 # IMAGE_SLIDER
- 
+
+![Screenshot (43)](https://github.com/MOHAMMADSHEHBAZ/IMAGE_SLIDER/assets/121683891/1b516116-66b6-478c-8477-157cf3c56cda)
+
+![Screenshot (44)](https://github.com/MOHAMMADSHEHBAZ/IMAGE_SLIDER/assets/121683891/5f1161a8-2024-43ea-8079-43d193f5b848)
+
+![Screenshot (45)](https://github.com/MOHAMMADSHEHBAZ/IMAGE_SLIDER/assets/121683891/f867027e-f695-4dd5-b468-a9699a1345af)
