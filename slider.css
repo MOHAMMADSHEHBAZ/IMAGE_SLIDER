@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(197, 204, 204);
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+.box1{
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box2{
+    width: 100vw;
+}
+.box3{
+    width:30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign{
+    height:70px ;
+    width: 70px;
+}
+.imgbox{
+    margin-top: 10px;
+}
+.imgbox img{
+    display: none;
+}
+.imgbox img.image{
+    display: inline-block;
+    border-radius: 20px;
+    width: 80vw;
+    height: 90vh;
+}
